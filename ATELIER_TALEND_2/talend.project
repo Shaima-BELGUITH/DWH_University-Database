@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_N5nn8bdREeyeiL5cQfM8OA" label="Atelier_Talend_2" description="" language="java" technicalLabel="ATELIER_TALEND_2" local="true" author="_N8ze0LdREeyeiL5cQfM8OA" productVersion="Talend Open Studio for Data Integration-7.3.1.20190924_1038-M2" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_OAhhMLdREeyeiL5cQfM8OA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_N8ze0LdREeyeiL5cQfM8OA" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>

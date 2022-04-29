@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_xP_f8LhfEeyptKYd8RYJ7w" name="etudiant" id="_zn-yYLhcEeyptKYd8RYJ7w" label="etudiant" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://LAPTOP-4HD4E02U:1433/Microsoft SQL Server;" dbVersionString="JTDS" Port="1433" Username="LAPTOP-4HD4E02U\USER" Password="CARDgWb48NACl/nA3zlpww==" ServerName="LAPTOP-4HD4E02U" DatasourceName="" FileFieldName="" SID="Microsoft SQL Server" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_xQeoILhfEeyptKYd8RYJ7w" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_xRyPsLhfEeyptKYd8RYJ7w" tag="package filter" value=""/>
+  <taggedValue xmi:id="_xSQJwLhfEeyptKYd8RYJ7w" tag="Status" value=""/>
+  <taggedValue xmi:id="_xSQJwbhfEeyptKYd8RYJ7w" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_xSQJwrhfEeyptKYd8RYJ7w" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_xSQJw7hfEeyptKYd8RYJ7w" tag="Description" value=""/>
+  <taggedValue xmi:id="_xSQJxLhfEeyptKYd8RYJ7w" tag="Author" value=""/>
+  <taggedValue xmi:id="_xSQJxbhfEeyptKYd8RYJ7w" tag="otherParameter"/>
+  <parameters xmi:id="_xQeoIbhfEeyptKYd8RYJ7w" key="CONN_PARA_KEY_USERNAME" value="LAPTOP-4HD4E02U\USER"/>
+</TalendMetadata:DatabaseConnection>

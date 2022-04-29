@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_HvJPkLhKEeyptKYd8RYJ7w" name="Resultat" dataPackage="_HvJPkbhKEeyptKYd8RYJ7w" Server="Localhost 127.0.0.1" FilePath="C:/Demo-Talend/Resultat.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_HvJPkbhKEeyptKYd8RYJ7w" name="default" dataManager="_HvJPkLhKEeyptKYd8RYJ7w">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_HvJPkrhKEeyptKYd8RYJ7w" id="_-A4agLhJEeyptKYd8RYJ7w" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPk7hKEeyptKYd8RYJ7w" label="ID_resultat" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPlLhKEeyptKYd8RYJ7w" label="ID_Etudiant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPlbhKEeyptKYd8RYJ7w" label="ID_Module" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPlrhKEeyptKYd8RYJ7w" label="ID_Date" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPl7hKEeyptKYd8RYJ7w" label="DS" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPmLhKEeyptKYd8RYJ7w" label="TP" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_HvJPmbhKEeyptKYd8RYJ7w" label="Examen" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
